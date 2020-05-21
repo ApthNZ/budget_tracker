@@ -6,6 +6,7 @@ Test file for checking necessary directories and files are present.
 
 import os
 from os.path import expanduser
+import logging
 
 
 class TestStructure:
